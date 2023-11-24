@@ -48,7 +48,7 @@ header button a{
   font-weight: 600;
 }
 
-header button:hover a{
+button:hover a{
   color: #fff;
 }
 
